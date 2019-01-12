@@ -9,7 +9,7 @@ then at the end save it to the outputfile whiich we define at the begining of ou
 # count words that have a and b letters
 
 
-# streaming from bycreating temporary server on terminal
+# streaming by creating temporary server on terminal
 
 
 # twitter streaming
